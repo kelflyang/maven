@@ -1,3 +1,8 @@
+# Note
+The deployment does not work. Please run the project locally.
+npm run dev:serve
+npm run dev:client
+
 # API documentation
 
 ## Section
